@@ -3,3 +3,4 @@
 - https://www.coursera.org/learn/scala2-spark-big-data
 - https://www.coursera.org/learn/packt-streaming-big-data-with-spark-streaming-scala-and-spark-3-09ksx
 - https://www.coursera.org/learn/packt-apache-spark-with-scala-hands-on-with-big-data-hilnz
+- https://www.coursera.org/learn/machine-learning-big-data-apache-spark
