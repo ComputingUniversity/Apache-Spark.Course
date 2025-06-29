@@ -1,2 +1,3 @@
 - https://www.coursera.org/learn/machine-learning-with-apache-spark
 - https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations
+- https://www.coursera.org/learn/scala2-spark-big-data
