@@ -5,3 +5,5 @@
 - https://www.coursera.org/learn/packt-apache-spark-with-scala-hands-on-with-big-data-hilnz
 - https://www.coursera.org/learn/machine-learning-big-data-apache-spark
 - https://www.coursera.org/projects/googlecloud-machine-learning-with-spark-on-google-cloud-dataproc-s6nkt
+- https://www.coursera.org/projects/googlecloud-distributed-image-processing-in-cloud-dataproc-fmywi
+- https://www.coursera.org/projects/real-time-analytics-with-spark-user-activity-monitoring
